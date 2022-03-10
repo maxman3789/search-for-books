@@ -17,6 +17,10 @@
   },
   "dependencies": {
     "apollo": "^2.33.9",
-    "graphql": "^14.7.0"
+    "apollo-boost": "^0.4.9",
+    "express": "^4.17.3",
+    "graphql": "^14.7.0",
+    "server": "^1.0.37",
+    "apollo-server-express": "^2.12.0"
   }
 }
